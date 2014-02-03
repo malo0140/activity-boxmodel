@@ -56,6 +56,7 @@ strong {
 }
 
 .logo { 
+    
     height: 4.5rem ;
     width: auto;
     margin: .5rem 5%;
@@ -71,4 +72,6 @@ li {
     color: white;
 
 }
+
+
 
