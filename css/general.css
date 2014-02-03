@@ -24,4 +24,42 @@ html {
 img {
 	width: 100%;
     display: block;
+    border: white;
 }
+
+.masthead {
+    background-color:gray;
+    overflow: hidden;   
+}
+
+body {
+    background-color:black;
+    font-family: Garamond, serif;
+}
+
+h1 {
+    color: white;
+    font-family:inherit;
+}
+
+p {
+    color:white 
+}
+
+em {
+    font-style:italic
+}
+
+strong {
+    font-weight:bold
+        
+}
+
+.logo { 
+    height: 4.5rem ;
+    width: auto;
+    margin: .5rem 5%;
+    
+}
+
+
