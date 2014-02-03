@@ -29,6 +29,7 @@ img {
 
 .masthead {
     background-color:gray;
+    background:
     overflow: hidden;   
 }
 
@@ -51,8 +52,7 @@ em {
 }
 
 strong {
-    font-weight:bold
-        
+    font-weight:bold      
 }
 
 .logo { 
@@ -62,4 +62,13 @@ strong {
     
 }
 
+footer {
+    background-color:gray;
+}
+
+li {
+    font-style:normal;
+    color: white;
+
+}
 
